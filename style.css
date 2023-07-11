@@ -1191,7 +1191,7 @@ body .container {
         display: block;
         width: 100%;
 	    padding: 20px;
-	    top: 50px;
+	    top: 0px;
         text-align: center;
         margin: auto;
     }
