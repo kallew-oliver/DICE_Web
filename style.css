@@ -201,7 +201,7 @@ span{
     transition: 0.3s ease-in-out;
 }
 .primeiras_informacoes{
-    background-image: url(./imagens/background\ -\ portifólio\ \(1\).png);
+    background-image: url(imagens/background\ -\ portifólio\ \(1\).png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -517,7 +517,7 @@ body .container {
 }
 
 .lista_projetos #projetos #adv{
-    background-image: url(./imagens/proj_ecommerce.png);
+    background-image: url(imagens/proj_ecommerce.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size:cover;
@@ -528,7 +528,7 @@ body .container {
     transform: scale(1.4);
 }
 .lista_projetos #projetos #barb{
-    background-image: url(./imagens/proj_barbearia.png);
+    background-image: url(imagens/proj_barbearia.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size:cover;
@@ -539,7 +539,7 @@ body .container {
     transform: scale(1.4)
 }
 .lista_projetos #projetos #est{
-    background-image: url(./imagens/proj_estetica.png);
+    background-image: url(imagens/proj_estetica.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size:cover;
@@ -550,7 +550,7 @@ body .container {
     transform: scale(1.4)
 }
 .lista_projetos #projetos #pers{
-    background-image: url(./imagens/proj_personal.png);
+    background-image: url(imagens/proj_personal.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size:cover;
@@ -619,7 +619,7 @@ body .container {
 }
 
 .not_info{
-    background-image: url(./imagens/background-noticias.jpg);
+    background-image: url(imagens/background-noticias.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: auto;
