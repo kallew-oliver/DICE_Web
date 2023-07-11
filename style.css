@@ -908,13 +908,12 @@ body .container {
     }
     
     .informacoes{
-        position: absolute;
+        position: relative;
         align-items: center;
         width: 100%;
         margin: auto;
         height: 300px;
-        top: 150px;
-        left: 0px;
+        
     }
     .informacoes > h1{
         margin-bottom: 10px;
@@ -1190,7 +1189,9 @@ body .container {
     
     .informacoes{
         display: block;
-        width: 400px;
+        width: 100%;
+	    padding: 20px;
+	    top: 150px;
         text-align: center;
         margin: auto;
     }
